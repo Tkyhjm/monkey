@@ -1,3 +1,4 @@
+"修正が完了しました"
 var sortNumber = function (number) {
     number.sort(function (a, b) {
         if (a == b) {
